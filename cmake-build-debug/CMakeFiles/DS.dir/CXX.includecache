@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Kushagra Kandpal/CLionProjects/DSA/DSAImplementation/trees.h
+
+C:/Users/Kushagra Kandpal/CLionProjects/DSA/main.cpp
+iostream
+-
+DSAImplementation/trees.h
+C:/Users/Kushagra Kandpal/CLionProjects/DSA/DSAImplementation/trees.h
+

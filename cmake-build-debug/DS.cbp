@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="DS"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Kushagra Kandpal/CLionProjects/DSA/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Softwares/GCC/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Kushagra Kandpal/CLionProjects/DSA/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/Softwares/GCC/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Kushagra Kandpal/CLionProjects/DSA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Softwares/GCC/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Kushagra Kandpal/CLionProjects/DSA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Softwares/GCC/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Kushagra Kandpal/CLionProjects/DSA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Kushagra Kandpal/CLionProjects/DSA/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Softwares/GCC/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Kushagra Kandpal/CLionProjects/DSA/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/Softwares/GCC/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Kushagra Kandpal/CLionProjects/DSA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Softwares/GCC/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Kushagra Kandpal/CLionProjects/DSA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Softwares/GCC/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Kushagra Kandpal/CLionProjects/DSA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DS">
+				<Option output="C:/Users/Kushagra Kandpal/CLionProjects/DSA/cmake-build-debug/DS.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Kushagra Kandpal/CLionProjects/DSA/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Softwares/GCC/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/Softwares/GCC/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="D:/Softwares/GCC/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/Softwares/GCC/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/Softwares/GCC/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/Softwares/GCC/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Softwares/GCC/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Kushagra Kandpal/CLionProjects/DSA/cmake-build-debug/Makefile&quot;  VERBOSE=1 DS"/>
+					<CompileFile command="D:/Softwares/GCC/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Kushagra Kandpal/CLionProjects/DSA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Softwares/GCC/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Kushagra Kandpal/CLionProjects/DSA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Softwares/GCC/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Kushagra Kandpal/CLionProjects/DSA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DS/fast">
+				<Option output="C:/Users/Kushagra Kandpal/CLionProjects/DSA/cmake-build-debug/DS.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Kushagra Kandpal/CLionProjects/DSA/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Softwares/GCC/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/Softwares/GCC/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="D:/Softwares/GCC/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/Softwares/GCC/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/Softwares/GCC/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/Softwares/GCC/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Softwares/GCC/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Kushagra Kandpal/CLionProjects/DSA/cmake-build-debug/Makefile&quot;  VERBOSE=1 DS/fast"/>
+					<CompileFile command="D:/Softwares/GCC/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Kushagra Kandpal/CLionProjects/DSA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Softwares/GCC/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Kushagra Kandpal/CLionProjects/DSA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Softwares/GCC/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Kushagra Kandpal/CLionProjects/DSA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Kushagra Kandpal/CLionProjects/DSA/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Softwares/GCC/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Kushagra Kandpal/CLionProjects/DSA/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/Softwares/GCC/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Kushagra Kandpal/CLionProjects/DSA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Softwares/GCC/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Kushagra Kandpal/CLionProjects/DSA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Softwares/GCC/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Kushagra Kandpal/CLionProjects/DSA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Kushagra Kandpal/CLionProjects/DSA/DSAImplementation/linkedlists.h">
+			<Option target="DS"/>
+		</Unit>
+		<Unit filename="C:/Users/Kushagra Kandpal/CLionProjects/DSA/DSAImplementation/trees.h">
+			<Option target="DS"/>
+		</Unit>
+		<Unit filename="C:/Users/Kushagra Kandpal/CLionProjects/DSA/LinkedList/LLAddtwo.h">
+			<Option target="DS"/>
+		</Unit>
+		<Unit filename="C:/Users/Kushagra Kandpal/CLionProjects/DSA/LinkedList/LLCheckSort.h">
+			<Option target="DS"/>
+		</Unit>
+		<Unit filename="C:/Users/Kushagra Kandpal/CLionProjects/DSA/LinkedList/LLDeletetarget.h">
+			<Option target="DS"/>
+		</Unit>
+		<Unit filename="C:/Users/Kushagra Kandpal/CLionProjects/DSA/LinkedList/LLFolding_Med.h">
+			<Option target="DS"/>
+		</Unit>
+		<Unit filename="C:/Users/Kushagra Kandpal/CLionProjects/DSA/LinkedList/LLInterleaving_Med.h">
+			<Option target="DS"/>
+		</Unit>
+		<Unit filename="C:/Users/Kushagra Kandpal/CLionProjects/DSA/LinkedList/LLJumps_Easy.h">
+			<Option target="DS"/>
+		</Unit>
+		<Unit filename="C:/Users/Kushagra Kandpal/CLionProjects/DSA/LinkedList/LLPartition_Med.h">
+			<Option target="DS"/>
+		</Unit>
+		<Unit filename="C:/Users/Kushagra Kandpal/CLionProjects/DSA/LinkedList/LLSwapNode_Med.h">
+			<Option target="DS"/>
+		</Unit>
+		<Unit filename="C:/Users/Kushagra Kandpal/CLionProjects/DSA/LinkedList/LLlength.h">
+			<Option target="DS"/>
+		</Unit>
+		<Unit filename="C:/Users/Kushagra Kandpal/CLionProjects/DSA/LinkedList/LLtoInt_Easy.h">
+			<Option target="DS"/>
+		</Unit>
+		<Unit filename="C:/Users/Kushagra Kandpal/CLionProjects/DSA/main.cpp">
+			<Option target="DS"/>
+		</Unit>
+		<Unit filename="C:/Users/Kushagra Kandpal/CLionProjects/DSA/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
